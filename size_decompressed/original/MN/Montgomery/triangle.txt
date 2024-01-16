@@ -1,0 +1,1 @@
+Object has a red flashing light, a steady white light, and a series of lights in a triangular shape.;2019-04-20 21:00:00;45 minutes;Object has a red flashing light, a steady white light, and a series of lights in a triangular shape with the bottom of the triangle missing.;44.4338;-93.5777

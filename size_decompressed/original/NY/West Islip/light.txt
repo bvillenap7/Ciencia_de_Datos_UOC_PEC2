@@ -1,0 +1,1 @@
+Fixed Light moved North to south very slowly.;2020-04-13 21:00:00;4;Fixed Light moved North to south very slowly.;40.7095;-73.2966

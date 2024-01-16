@@ -1,0 +1,1 @@
+Line of lights.  ((Starlink satellites?));2020-04-13 21:35:00;10 minutes;Line of lights Evenly spaced lights in a line across the sky.  Checked for Starlink orbits but they were perpendicular to this line and not in the visible sky at the time.;36.045;-84.0396

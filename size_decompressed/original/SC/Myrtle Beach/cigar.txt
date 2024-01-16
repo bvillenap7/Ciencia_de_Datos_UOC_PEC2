@@ -1,0 +1,1 @@
+Green object hovers then rapidly changes elevation and direction.;2021-08-20 23:50:00;>5 minutes;Green object hovers then rapidly changes elevation and direction.;33.7071922563412;-78.9372522029364

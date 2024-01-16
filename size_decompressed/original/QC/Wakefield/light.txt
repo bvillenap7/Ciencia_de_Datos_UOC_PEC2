@@ -1,0 +1,1 @@
+20 lights moving west to east disappearing at the same spot.;2017-01-20 19:00:00;20 minutes;20 lights moving west to east disappearing at the same spot.;45.6369;-75.9322

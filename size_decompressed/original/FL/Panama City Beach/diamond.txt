@@ -1,0 +1,1 @@
+hypersonic acft;2006-06-28 04:00:00;90 minutes;hypersonic acft traveled from nw to sw, then reverted back in direction they came from.  c.4 acft travelling on average c.mach 4-6.;30.2406142857143;-85.8471285714286

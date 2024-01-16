@@ -1,0 +1,1 @@
+Lights around object which changed color.;2013-07-23 22:00:00;30 minutes;Lights around object which changed color Three objects emitting white and red lights above the horizon.  As time went by, they dropped downwards and then disappeared.;41.6425;-73.30885

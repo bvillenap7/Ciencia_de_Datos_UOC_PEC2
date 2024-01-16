@@ -1,0 +1,1 @@
+Diamond shape, low to ground, low noise, 3 lights, then 1 light moved closer to one otherr light;2014-08-10 19:00:00;5 minutes;diamond shape, low to ground, low noise, 3 lights, then 1 light moved closer to one otherr light low to ground, diamond shape,3 lights. Then 1 light moved closer to another, low noise.;43.9724000000001;-78.7079999999999

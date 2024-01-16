@@ -1,0 +1,2 @@
+Craft hovered overhead visible for about 30 seconds and then disappeared.;2013-11-07 16:52:00;30+ seconds;Craft hovered overhead visible for about  30 seconds and then disappeared.;38.696;-77.1995
+Bright blue large fast moving circular object.;2014-01-13 17:50:00;2 seconds;Bright blue large fast moving circular object. Fast moving east to west bright blue (glowing) circular object.  Was initially described as a  comet, though the observer had never seen a comet before.;38.696;-77.1995
