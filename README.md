@@ -15,7 +15,7 @@ Contenido:
 - Funciones dentro de funciones
 - Valor de retorno
 - Funciones como valores de retorno
-- Paso por refrencia de objeto
+- Paso por referencia de objeto
 - Funciones como parámetros
 - Funciones anónimas
 - Docstring
